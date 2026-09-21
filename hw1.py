@@ -3,7 +3,7 @@ print("Hello world!")
 #2
 print("Welcome to python")
 #3
-name="akku"
+name="Amal Mohammed"
 print(name)
 #4
 print("i am learning python")
